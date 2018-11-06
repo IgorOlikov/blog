@@ -1,3 +1,5 @@
+<p>Для работы сайта нужно заполнить данные о подключении к БД в файле .env , база данных находится в папке mySQL.</p> 
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
