@@ -1,5 +1,8 @@
 <p>Для работы сайта нужно заполнить данные о подключении к БД в файле .env , база данных находится в папке mySQL.</p> 
-
+<p>HTTP Apache PHP - 7.2</p>
+<p>PHP - 7.2</p>
+<p>MySQL- 5.7</p>
+<p>PostgreSQL -9.6 - x64</p>
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
