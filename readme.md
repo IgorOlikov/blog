@@ -1,4 +1,5 @@
-<p>Для работы сайта нужно заполнить данные о подключении к БД в файле .env , база данных находится в папке mySQL.</p> 
+<p>Для работы сайта на вашем хостинге нужно изменить данные о подключении к Базе Данных в файле .env . База Данных находится в папке mySQL.</p>
+<p>For the site to work on your hosting you need to change the database connection data in the file .env . The database is located in the mySQL folder.</p>
 <p>HTTP Apache PHP - 7.2</p>
 <p>PHP - 7.2</p>
 <p>MySQL- 5.7</p>
